@@ -7,10 +7,10 @@
 **May 30 - June 1, 2022**
 {: style="text-align: center"}
 
-**co-located with [DCOSS 2022](https://dcoss.org/)**
+**Co-located with [DCOSS 2022](https://dcoss.org/)**
 {: style="text-align: center"}
 
-**Submission link: click here**
+**Click here for submission link**
 {: style="text-align: center"}
 
 ## Scope
@@ -31,13 +31,13 @@ Furthermore, this workshop will cover informatics and standardization techniques
 ## Committees
 
 ### Chairs
-1.	**Dominique Duncan**: University of Southern California (USC)
-2.	**Albert Hsiao**: UCSD
-3.	**Michael Pazzani**: USC
+-	**Dominique Duncan**: University of Southern California (USC)
+-	**Albert Hsiao**: UCSD
+-	**Michael Pazzani**: USC
 
 ### Co-Chairs
-1. **Enrico Natalizio**: Technology Innovation Institute 
-2. **Simone Silvestri**: University of Kentucky
+- **Enrico Natalizio**: Technology Innovation Institute 
+- **Simone Silvestri**: University of Kentucky
 
 ## Planned Format of the Workshop
 10 papers, 2 keynotes (other papers will be shorter talks), selection of papers via both invitation and open call
