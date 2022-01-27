@@ -7,7 +7,7 @@
 **May 30 - June 1, 2022**
 {: style="text-align: center"}
 
-**co-located with DCOSS 2022**
+**co-located with [DCOSS 2022](https://dcoss.org/)**
 {: style="text-align: center"}
 
 **Submission link: click here**
