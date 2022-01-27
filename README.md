@@ -6,7 +6,7 @@
 # Marina del Rey, LA, California, US
 {: style="text-align: center"}
 
-# May 30 - June 1, 2022
+**May 30 - June 1, 2022**
 {: style="text-align: center"}
 
 # co-located with DCOSS 2022
