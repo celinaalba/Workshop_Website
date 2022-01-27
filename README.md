@@ -31,9 +31,9 @@ Furthermore, this workshop will cover informatics and standardization techniques
 ## Committees
 
 ### Chairs
--	**Dominique Duncan**: University of Southern California (USC)
--	**Albert Hsiao**: UCSD
--	**Michael Pazzani**: USC
+-	**Dominique Duncan**: University of Southern California
+-	**Albert Hsiao**: University of California San Diego
+-	**Michael Pazzani**: University of Southern California
 
 ### Co-Chairs
 - **Enrico Natalizio**: Technology Innovation Institute 
