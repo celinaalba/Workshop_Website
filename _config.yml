@@ -1,1 +1,4 @@
-theme: jekyll-theme-dinky
+remote_theme: tuur29/pages-themes-cayman
+
+title: [C19STDC 2022]
+description: [Covid 19 Sensor Technology and Distributed Computing]
