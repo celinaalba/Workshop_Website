@@ -22,11 +22,11 @@ Furthermore, this workshop will cover informatics and standardization techniques
 {: style="text-align: justify"}
 
 ## Topics of Interest
-•	Signal processing and image analysis methods for COVID-19 detection
-•	Machine learning and artificial intelligence methods applied to COVID-19
-•	Contact tracing and testing methods using sensor technology
-•	Wearable sensors for COVID-19 detection
-•	Distributed computing for crowdsourcing and accelerating COVID-19 research
+- Signal processing and image analysis methods for COVID-19 detection
+- Machine learning and artificial intelligence methods applied to COVID-19
+- Contact tracing and testing methods using sensor technology
+- Wearable sensors for COVID-19 detection
+- Distributed computing for crowdsourcing and accelerating COVID-19 research
 
 ## Committees
 
