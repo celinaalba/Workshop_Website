@@ -28,22 +28,31 @@ Furthermore, this workshop will cover informatics and standardization techniques
 •	Wearable sensors for COVID-19 detection
 •	Distributed computing for crowdsourcing and accelerating COVID-19 research
 
-## Chairs
-1.	Dominique Duncan, University of Southern California (USC)
-2.	Albert Hsiao, UCSD
-3.	Michael Pazzani, USC
+## Committees
 
-## Co-Chairs
-1. Enrico Natalizio, Technology Innovation Institute 
-2. Simone Silvestri, University of Kentucky
+### Chairs
+1.	**Dominique Duncan**: University of Southern California (USC)
+2.	**Albert Hsiao**: UCSD
+3.	**Michael Pazzani**: USC
+
+### Co-Chairs
+1. **Enrico Natalizio**: Technology Innovation Institute 
+2. **Simone Silvestri**: University of Kentucky
 
 ## Planned Format of the Workshop
 10 papers, 2 keynotes (other papers will be shorter talks), selection of papers via both invitation and open call
 {: style="text-align: justify"}
 
 ## Important Dates
-Camera Ready: April 18, 2022
-{: style="text-align: justify"}
+
+- **Abstract Submission**: TBA
+- **Paper Submission**: March 15, 2022
+- **Acceptance Notification**: TBA
+- **Camera Ready**: April 18, 2022
+- **Early Registration**: TBA
+- **Workshop Day**: TBA
+
+* * *
 
 ## Additional Information
 Publicity via the COVID-19 Data Archive (COVID-ARC) website and the Covid Information Commons.
