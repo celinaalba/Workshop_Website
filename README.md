@@ -1,10 +1,19 @@
 # Workshop_Website
 
 # Novel Methods to Study COVID-19 Using Sensor Technology and Distributed Computing 2022
-  # Marina del Rey, LA, California, US
-  # May 30 - June 1, 2022
-  # co-located with DCOSS 2022
-  # Submission link: click here
+{: style="text-align: center"}
+
+# Marina del Rey, LA, California, US
+{: style="text-align: center"}
+
+# May 30 - June 1, 2022
+{: style="text-align: center"}
+
+# co-located with DCOSS 2022
+{: style="text-align: center"}
+
+# Submission link: click here
+{: style="text-align: center"}
 
 ## Scope
   # This workshop will cover a number of aspects related to the COVID-19 pandemic. Novel methods used for COVID-19 detection using deep learning and distributed computing methods will be described. Innovative machine learning and artificial intelligence techniques applied to chest CT and x-ray images to identify features of interest in COVID-19 patients, improve accuracy of diagnosis, identify illness severity, and study the spread and long-term effects will be presented. Wireless, non-invasive sensors for COVID-19 detection will be described, including sensor technology that can detect COVID-19 infections, low-cost and portable devices for remote patient monitoring and virtual assessments, and other types of sensors for monitoring COVID-19. Innovative methods for improving accuracy, fast response time, multiplexing capabilities, multiple sensing modes, disposability, long shelf life, ease of use, cost-effectiveness, manufacturability, and autonomy will be presented. Legal, ethical, and privacy concerns surrounding sensor technology and associated data will be discussed. Methods from nanotechnology and the Internet of things will be described as they are applicable to COVID-19 sensor technology. 
