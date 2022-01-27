@@ -1,4 +1,4 @@
-# Novel Methods to Study COVID-19 Using Sensor Technology and Distributed Computing 2022
+# Celina Alba's Novel Methods to Study COVID-19 Using Sensor Technology and Distributed Computing 2022
 {: style="text-align: center"}
 
 **Marina del Rey, LA, California, US**
