@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky 
+remote_theme: benbalter/retlab
 
 title: [Wi-DroIT 2022]
 description: [Wireless Sensors & Drones in IoT]
