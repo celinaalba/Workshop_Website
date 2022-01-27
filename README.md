@@ -29,22 +29,27 @@ Furthermore, this workshop will cover informatics and standardization techniques
 •	Distributed computing for crowdsourcing and accelerating COVID-19 research
 {: style="text-align: justify"}
 
-# Chairs
-  # 1.	Dominique Duncan, University of Southern California (USC)
-  # 2.	Albert Hsiao, UCSD
-  # 3.	Michael Pazzani, USC
+## Chairs
+1.	Dominique Duncan, University of Southern California (USC)
+2.	Albert Hsiao, UCSD
+3.	Michael Pazzani, USC
+{: style="text-align: justify"}
 
-# Co-Chairs
-  # Enrico Natalizio, Technology Innovation Institute 
-  # Simone Silvestri, University of Kentucky
+## Co-Chairs
+Enrico Natalizio, Technology Innovation Institute 
+Simone Silvestri, University of Kentucky
+{: style="text-align: justify"}
 
-# Planned Format of the Workshop
-  # 10 papers, 2 keynotes (other papers will be shorter talks), selection of papers via both invitation and open call
+## Planned Format of the Workshop
+10 papers, 2 keynotes (other papers will be shorter talks), selection of papers via both invitation and open call
+{: style="text-align: justify"}
 
-# Important Dates
-  # Camera Ready: April 18, 2022
+## Important Dates
+Camera Ready: April 18, 2022
+{: style="text-align: justify"}
 
-# Additional Information
-  # Publicity via the COVID-19 Data Archive (COVID-ARC) website and the Covid Information Commons.
+## Additional Information
+Publicity via the COVID-19 Data Archive (COVID-ARC) website and the Covid Information Commons.
+{: style="text-align: justify"}
 
 
