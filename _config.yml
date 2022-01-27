@@ -1,4 +1,4 @@
-remote_theme: cayman
+theme: jekyll-theme-dinky 
 
 title: [Wi-DroIT 2022]
 description: [Wireless Sensors & Drones in IoT]
